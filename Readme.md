@@ -73,8 +73,7 @@
 |DGTL-PSOCOL-1428|   Are Your Headsets Designed for Business? - DGTL-PSOCOL-1428|
 |DGTL-BRKACI-2403|   Assurance and Insights for Datacenters: When mathematical modelling meets big data analytics - DGTL-BRKACI-2403|
 |DGTL-BRKACI-1619|   Automating ACI with Ansible - DGTL-BRKACI-1619|
-|DGTL-PSOSEC-1008|   Balancing Business Objectives and Providing Protection
-with Zero-Trust in The Workplace - DGTL-PSOSEC-1008|
+|DGTL-PSOSEC-1008| Balancing Business Objectives and Providing Protection with Zero-Trust in The Workplace - DGTL-PSOSEC-1008 |
 |DGTL-PSOCOL-1657|   Become a Collaboration Adoption Master - DGTL-PSOCOL-1657|
 |DGTL-BRKIOT-1553|   Best Practices for Onboarding and protection of IoT devices - DGTL-BRKIOT-1553|
 |DGTL-PSONWT-1001|   Beyond SDN: 6 ways to benefit from Intent-Based Networking - DGTL-PSONWT-1001 |
@@ -1528,7 +1527,7 @@ with Zero-Trust in The Workplace - DGTL-PSOSEC-1008|
 |BRKOPS-2717    |   Four Easy Ways for Network Engineers to go from an Un-Programmed to an Automated Network - BRKOPS-2717|
 |BRKSEC-2288    |   From Ship to Shore: Integrations, Collaboration, and (Securely) Taking Control Beyond the Cisco Secure Email Gateway - BRKSEC-2288|
 |DEVNET-2114    |   Full Stack Developer Experience - DEVNET-2114|
-|BRKCOC-2026    |   Full Stack Observability (FSO) with AppDynamics and ThousandEyes | A Cisco IT Story - BRKCOC-2026|
+|BRKCOC-2026    |   Full Stack Observability (FSO) with AppDynamics and ThousandEyes  A Cisco IT Story - BRKCOC-2026|
 |BRKCLD-2310    |   Full Stack Observability: Managing the Application Experience with Cisco - BRKCLD-2310|
 |BRKCLD-2759    |   Full-Stack Observability: The HOW! - BRKCLD-2759|
 |DEVNET-2526    |   Fully Automated ACI Upgrades at Global Scale - A Real-Life Case Study - DEVNET-2526|
@@ -2367,7 +2366,7 @@ with Zero-Trust in The Workplace - DGTL-PSOSEC-1008|
 |BRKCOL-2693    |   Successfully Migrating to and deploying Webex Calling  - BRKCOL-2693|
 |BRKEMT-2397    |   The Hidden Gems of Cisco Catalyst Center (formerly Cisco DNA Center) - BRKEMT-2397|
 |BRKAPP-2569    |   Thousand Eyes 101 & automating Netops use cases - BRKAPP-2569|
-|BRKAPP-2564    |   ThousandEyes enabling Hybridwork from anywhere|home|office - BRKAPP-2564|
+|BRKAPP-2564    |   ThousandEyes enabling Hybridwork from anywhere home office - BRKAPP-2564|
 |BRKSPG-2782    |   Understanding Cloud-Ready Converged Transport - BRKSPG-2782|
 |BRKDCN-3003    |   Advanced Case Studies on Troubleshooting VXLAN BGP EVPN Multi-Site - BRKDCN-3003|
 |BRKDCN-3004    |   Advanced QoS Troubleshooting Using Case Studies on Nexus Cloud scale ASICs - BRKDCN-3004|
@@ -2925,3 +2924,10 @@ with Zero-Trust in The Workplace - DGTL-PSOSEC-1008|
 |ITLGEN-1016    |   Elevate Digital Experiences with Cisco Full-Stack Observability - ITLGEN-1016|
 |ITLGEN-1017    |   Generative AI: The Terrifying Opportunity  - ITLGEN-1017|
 |ITLGEN-1014    |   Unleashing Brilliance: Nurturing Unique Skills for Authentic Success - ITLGEN-1014|
+|BRKARC-1343    | Catalyst 9200 Overview & Architecture Extending Intent Based Networking Everywhere |
+|BRKARC-2101    | Catalyst 9200 and 9300 Switching Architecture|
+|BRKARC-2007    | Catalyst 9500 Series  Switch Architecture Transitioning to 100-Gbps Networking |
+|BRKARC-3873    | Catalyst 9400  Architecture |
+|BRKARC-3438 | Cisco Catalyst 3850  and 3650 Switching Architecture |
+|BRKARC-3010 | Catalyst 9600 Architecture |
+|BRKARC-2105 | Cisco Catalyst  9400/9500/9600 Switching Architecture |
